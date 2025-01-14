@@ -1,6 +1,6 @@
 # Nest Ingrained Ecosystem for Zero Emission Buildings
 
-![logo](../images/Logo.png)
+![logo](../Logo.png)
 
 ## Project Information
 
